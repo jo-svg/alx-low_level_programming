@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 /*The main function is the entry point of the program
 *It returns an integer value to indicate the status of the program
