@@ -4,7 +4,7 @@
  * Return:Always 0
  */
 #include <stdio.h>
-	int main(void) 
+int main(void)
 {
 putchar('_');
 putchar('p');
