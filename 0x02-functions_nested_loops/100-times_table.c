@@ -4,8 +4,8 @@
  * @n: input
  * Return: Always 0 (Success)
  */
-int main(void){
 void print_times_table(int n)
+
 {
 int digit, mult, result;
 if (n <= 15 && n >= 0)
@@ -41,4 +41,4 @@ _putchar('\n');
 }
 
 
-}
+
